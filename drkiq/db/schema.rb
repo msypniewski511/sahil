@@ -10,8 +10,18 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.0].define(version: 0) do
+ActiveRecord::Schema[7.0].define(version: 2023_08_22_090330) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "companies", force: :cascade do |t|
+    t.string "cik", null: false
+    t.string "name"
+    t.string "ticker"
+    t.json "prices"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["cik"], name: "index_companies_on_cik", unique: true
+  end
 
 end

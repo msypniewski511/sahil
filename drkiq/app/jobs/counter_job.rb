@@ -2,6 +2,6 @@ class CounterJob < ApplicationJob
   queue_as :default
 
   def perform(*args)
-    21 + 21
+    ENV.fetch("ALPHAVANTAGE_KEY")
   end
 end
