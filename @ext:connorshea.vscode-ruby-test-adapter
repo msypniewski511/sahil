@@ -334,3 +334,402 @@ Could not locate Gemfile or .bundle/ directory
 [2023-08-22 11:52:54.507] [INFO] Sending autorun event
 [2023-08-22 11:52:54.729] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/models/price_service.rb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
 [2023-08-22 11:52:54.729] [INFO] Sending autorun event
+[2023-08-22 12:23:09.951] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/layouts/application.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:23:09.951] [INFO] Sending autorun event
+[2023-08-22 12:23:12.064] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/layouts/application.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:23:12.064] [INFO] Sending autorun event
+[2023-08-22 12:23:23.112] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/layouts/application.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:23:23.112] [INFO] Sending autorun event
+[2023-08-22 12:23:24.860] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/layouts/application.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:23:24.860] [INFO] Sending autorun event
+[2023-08-22 12:23:28.842] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/layouts/application.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:23:28.842] [INFO] Sending autorun event
+[2023-08-22 12:25:27.012] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:25:27.012] [INFO] Sending autorun event
+[2023-08-22 12:25:28.173] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:25:28.174] [INFO] Sending autorun event
+[2023-08-22 12:27:02.180] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:27:02.180] [INFO] Sending autorun event
+[2023-08-22 12:27:32.574] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:27:32.574] [INFO] Sending autorun event
+[2023-08-22 12:29:06.777] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:29:06.778] [INFO] Sending autorun event
+[2023-08-22 12:29:13.892] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:29:13.892] [INFO] Sending autorun event
+[2023-08-22 12:29:14.096] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:29:14.096] [INFO] Sending autorun event
+[2023-08-22 12:33:43.171] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:33:43.171] [INFO] Sending autorun event
+[2023-08-22 12:33:43.317] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:33:43.317] [INFO] Sending autorun event
+[2023-08-22 12:34:15.364] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:34:15.364] [INFO] Sending autorun event
+[2023-08-22 12:34:21.757] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:34:21.757] [INFO] Sending autorun event
+[2023-08-22 12:34:21.919] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:34:21.919] [INFO] Sending autorun event
+[2023-08-22 12:37:03.430] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:37:03.430] [INFO] Sending autorun event
+[2023-08-22 12:37:14.900] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:37:14.901] [INFO] Sending autorun event
+[2023-08-22 12:37:15.441] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:37:15.441] [INFO] Sending autorun event
+[2023-08-22 12:39:25.691] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:39:25.691] [INFO] Sending autorun event
+[2023-08-22 12:39:27.361] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:39:27.361] [INFO] Sending autorun event
+[2023-08-22 12:40:32.259] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:40:32.259] [INFO] Sending autorun event
+[2023-08-22 12:40:32.800] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:40:32.800] [INFO] Sending autorun event
+[2023-08-22 12:41:31.041] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:41:31.041] [INFO] Sending autorun event
+[2023-08-22 12:41:31.092] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:41:31.092] [INFO] Sending autorun event
+[2023-08-22 12:41:57.871] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:41:57.871] [INFO] Sending autorun event
+[2023-08-22 12:42:15.849] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:42:15.849] [INFO] Sending autorun event
+[2023-08-22 12:44:03.340] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:44:03.341] [INFO] Sending autorun event
+[2023-08-22 12:44:04.553] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:44:04.553] [INFO] Sending autorun event
+[2023-08-22 12:44:04.693] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:44:04.693] [INFO] Sending autorun event
+[2023-08-22 12:44:25.494] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:44:25.494] [INFO] Sending autorun event
+[2023-08-22 12:44:25.793] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:44:25.793] [INFO] Sending autorun event
+[2023-08-22 12:44:51.982] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:44:51.983] [INFO] Sending autorun event
+[2023-08-22 12:44:56.902] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:44:56.902] [INFO] Sending autorun event
+[2023-08-22 12:45:30.825] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:45:30.825] [INFO] Sending autorun event
+[2023-08-22 12:47:15.537] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:47:15.537] [INFO] Sending autorun event
+[2023-08-22 12:47:45.352] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:47:45.353] [INFO] Sending autorun event
+[2023-08-22 12:47:47.927] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:47:47.927] [INFO] Sending autorun event
+[2023-08-22 12:47:50.579] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:47:50.579] [INFO] Sending autorun event
+[2023-08-22 12:48:02.735] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:48:02.735] [INFO] Sending autorun event
+[2023-08-22 12:48:18.902] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:48:18.902] [INFO] Sending autorun event
+[2023-08-22 12:48:25.222] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:48:25.223] [INFO] Sending autorun event
+[2023-08-22 12:48:48.462] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:48:48.462] [INFO] Sending autorun event
+[2023-08-22 12:48:53.449] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:48:53.451] [INFO] Sending autorun event
+[2023-08-22 12:48:54.610] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:48:54.611] [INFO] Sending autorun event
+[2023-08-22 12:48:59.014] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:48:59.015] [INFO] Sending autorun event
+[2023-08-22 12:49:00.050] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:49:00.050] [INFO] Sending autorun event
+[2023-08-22 12:49:02.157] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:49:02.157] [INFO] Sending autorun event
+[2023-08-22 12:49:33.803] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:49:33.803] [INFO] Sending autorun event
+[2023-08-22 12:49:36.067] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:49:36.067] [INFO] Sending autorun event
+[2023-08-22 12:49:37.636] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:49:37.636] [INFO] Sending autorun event
+[2023-08-22 12:50:41.251] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:50:41.251] [INFO] Sending autorun event
+[2023-08-22 12:50:55.532] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:50:55.533] [INFO] Sending autorun event
+[2023-08-22 12:50:58.440] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:50:58.441] [INFO] Sending autorun event
+[2023-08-22 12:50:58.752] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:50:58.752] [INFO] Sending autorun event
+[2023-08-22 12:53:49.126] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:53:49.127] [INFO] Sending autorun event
+[2023-08-22 12:53:51.434] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:53:51.434] [INFO] Sending autorun event
+[2023-08-22 12:53:53.697] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:53:53.698] [INFO] Sending autorun event
+[2023-08-22 12:53:57.162] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:53:57.162] [INFO] Sending autorun event
+[2023-08-22 12:54:22.046] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:54:22.046] [INFO] Sending autorun event
+[2023-08-22 12:54:41.773] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:54:41.773] [INFO] Sending autorun event
+[2023-08-22 12:54:45.150] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:54:45.151] [INFO] Sending autorun event
+[2023-08-22 12:56:27.800] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:56:27.800] [INFO] Sending autorun event
+[2023-08-22 12:56:34.719] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:56:34.719] [INFO] Sending autorun event
+[2023-08-22 12:56:41.701] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:56:41.701] [INFO] Sending autorun event
+[2023-08-22 12:56:42.292] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:56:42.292] [INFO] Sending autorun event
+[2023-08-22 12:57:03.470] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:57:03.471] [INFO] Sending autorun event
+[2023-08-22 12:58:24.711] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:58:24.711] [INFO] Sending autorun event
+[2023-08-22 12:59:16.159] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:59:16.159] [INFO] Sending autorun event
+[2023-08-22 12:59:19.026] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:59:19.026] [INFO] Sending autorun event
+[2023-08-22 12:59:22.177] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:59:22.178] [INFO] Sending autorun event
+[2023-08-22 12:59:24.491] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:59:24.492] [INFO] Sending autorun event
+[2023-08-22 12:59:37.138] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:59:37.138] [INFO] Sending autorun event
+[2023-08-22 12:59:39.152] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:59:39.152] [INFO] Sending autorun event
+[2023-08-22 12:59:41.065] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:59:41.066] [INFO] Sending autorun event
+[2023-08-22 12:59:43.479] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:59:43.479] [INFO] Sending autorun event
+[2023-08-22 12:59:45.943] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:59:45.943] [INFO] Sending autorun event
+[2023-08-22 12:59:47.685] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:59:47.686] [INFO] Sending autorun event
+[2023-08-22 12:59:49.785] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:59:49.786] [INFO] Sending autorun event
+[2023-08-22 12:59:51.203] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:59:51.203] [INFO] Sending autorun event
+[2023-08-22 12:59:53.436] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 12:59:53.436] [INFO] Sending autorun event
+[2023-08-22 13:00:02.339] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:00:02.339] [INFO] Sending autorun event
+[2023-08-22 13:00:04.419] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:00:04.419] [INFO] Sending autorun event
+[2023-08-22 13:00:06.882] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:00:06.882] [INFO] Sending autorun event
+[2023-08-22 13:00:15.892] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:00:15.892] [INFO] Sending autorun event
+[2023-08-22 13:00:17.823] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:00:17.823] [INFO] Sending autorun event
+[2023-08-22 13:00:52.498] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:00:52.499] [INFO] Sending autorun event
+[2023-08-22 13:00:56.059] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:00:56.059] [INFO] Sending autorun event
+[2023-08-22 13:01:02.056] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:01:02.056] [INFO] Sending autorun event
+[2023-08-22 13:01:03.120] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:01:03.120] [INFO] Sending autorun event
+[2023-08-22 13:01:31.590] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:01:31.590] [INFO] Sending autorun event
+[2023-08-22 13:01:52.134] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:01:52.134] [INFO] Sending autorun event
+[2023-08-22 13:01:58.542] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:01:58.542] [INFO] Sending autorun event
+[2023-08-22 13:02:05.353] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:02:05.353] [INFO] Sending autorun event
+[2023-08-22 13:02:07.937] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:02:07.937] [INFO] Sending autorun event
+[2023-08-22 13:02:12.345] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:02:12.345] [INFO] Sending autorun event
+[2023-08-22 13:02:14.205] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:02:14.205] [INFO] Sending autorun event
+[2023-08-22 13:02:23.171] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:02:23.172] [INFO] Sending autorun event
+[2023-08-22 13:02:32.214] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:02:32.214] [INFO] Sending autorun event
+[2023-08-22 13:02:36.408] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:02:36.409] [INFO] Sending autorun event
+[2023-08-22 13:02:47.801] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:02:47.801] [INFO] Sending autorun event
+[2023-08-22 13:02:57.901] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:02:57.902] [INFO] Sending autorun event
+[2023-08-22 13:03:03.864] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:03:03.864] [INFO] Sending autorun event
+[2023-08-22 13:03:13.231] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:03:13.231] [INFO] Sending autorun event
+[2023-08-22 13:03:20.530] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:03:20.530] [INFO] Sending autorun event
+[2023-08-22 13:03:26.401] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:03:26.401] [INFO] Sending autorun event
+[2023-08-22 13:03:41.560] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:03:41.560] [INFO] Sending autorun event
+[2023-08-22 13:03:44.228] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:03:44.228] [INFO] Sending autorun event
+[2023-08-22 13:03:47.841] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:03:47.841] [INFO] Sending autorun event
+[2023-08-22 13:03:54.782] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:03:54.782] [INFO] Sending autorun event
+[2023-08-22 13:04:38.960] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:04:38.961] [INFO] Sending autorun event
+[2023-08-22 13:04:40.007] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:04:40.007] [INFO] Sending autorun event
+[2023-08-22 13:04:40.074] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:04:40.074] [INFO] Sending autorun event
+[2023-08-22 13:05:03.139] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:05:03.140] [INFO] Sending autorun event
+[2023-08-22 13:05:11.327] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:05:11.327] [INFO] Sending autorun event
+[2023-08-22 13:05:29.570] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:05:29.570] [INFO] Sending autorun event
+[2023-08-22 13:05:30.476] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:05:30.476] [INFO] Sending autorun event
+[2023-08-22 13:05:41.586] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:05:41.587] [INFO] Sending autorun event
+[2023-08-22 13:05:58.021] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:05:58.021] [INFO] Sending autorun event
+[2023-08-22 13:05:59.323] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:05:59.323] [INFO] Sending autorun event
+[2023-08-22 13:06:00.619] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:06:00.619] [INFO] Sending autorun event
+[2023-08-22 13:06:02.609] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:06:02.610] [INFO] Sending autorun event
+[2023-08-22 13:06:04.054] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:06:04.055] [INFO] Sending autorun event
+[2023-08-22 13:06:05.221] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:06:05.221] [INFO] Sending autorun event
+[2023-08-22 13:06:06.394] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:06:06.394] [INFO] Sending autorun event
+[2023-08-22 13:06:07.670] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:06:07.670] [INFO] Sending autorun event
+[2023-08-22 13:06:08.572] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:06:08.572] [INFO] Sending autorun event
+[2023-08-22 13:07:17.599] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:07:17.600] [INFO] Sending autorun event
+[2023-08-22 13:07:18.004] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:07:18.005] [INFO] Sending autorun event
+[2023-08-22 13:09:39.680] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:09:39.680] [INFO] Sending autorun event
+[2023-08-22 13:09:53.397] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:09:53.397] [INFO] Sending autorun event
+[2023-08-22 13:09:55.802] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:09:55.803] [INFO] Sending autorun event
+[2023-08-22 13:10:00.470] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:10:00.470] [INFO] Sending autorun event
+[2023-08-22 13:10:00.679] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:10:00.679] [INFO] Sending autorun event
+[2023-08-22 13:11:07.098] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:11:07.099] [INFO] Sending autorun event
+[2023-08-22 13:11:59.411] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:11:59.412] [INFO] Sending autorun event
+[2023-08-22 13:12:38.160] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:12:38.160] [INFO] Sending autorun event
+[2023-08-22 13:12:39.192] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:12:39.193] [INFO] Sending autorun event
+[2023-08-22 13:12:41.690] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:12:41.691] [INFO] Sending autorun event
+[2023-08-22 13:12:43.780] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:12:43.780] [INFO] Sending autorun event
+[2023-08-22 13:12:46.042] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:12:46.042] [INFO] Sending autorun event
+[2023-08-22 13:12:47.911] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:12:47.911] [INFO] Sending autorun event
+[2023-08-22 13:12:51.110] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:12:51.110] [INFO] Sending autorun event
+[2023-08-22 13:12:53.919] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:12:53.919] [INFO] Sending autorun event
+[2023-08-22 13:12:55.187] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:12:55.187] [INFO] Sending autorun event
+[2023-08-22 13:12:57.811] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:12:57.811] [INFO] Sending autorun event
+[2023-08-22 13:12:59.410] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:12:59.410] [INFO] Sending autorun event
+[2023-08-22 13:13:03.426] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:13:03.427] [INFO] Sending autorun event
+[2023-08-22 13:13:04.929] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:13:04.929] [INFO] Sending autorun event
+[2023-08-22 13:13:16.196] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:13:16.197] [INFO] Sending autorun event
+[2023-08-22 13:13:18.817] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:13:18.818] [INFO] Sending autorun event
+[2023-08-22 13:13:20.307] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:13:20.307] [INFO] Sending autorun event
+[2023-08-22 13:13:28.113] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:13:28.113] [INFO] Sending autorun event
+[2023-08-22 13:13:28.678] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:13:28.678] [INFO] Sending autorun event
+[2023-08-22 13:14:09.566] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:14:09.566] [INFO] Sending autorun event
+[2023-08-22 13:14:50.389] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:14:50.390] [INFO] Sending autorun event
+[2023-08-22 13:14:58.108] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:14:58.109] [INFO] Sending autorun event
+[2023-08-22 13:14:58.532] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:14:58.532] [INFO] Sending autorun event
+[2023-08-22 13:16:26.382] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:16:26.382] [INFO] Sending autorun event
+[2023-08-22 13:16:36.942] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:16:36.942] [INFO] Sending autorun event
+[2023-08-22 13:16:38.228] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:16:38.229] [INFO] Sending autorun event
+[2023-08-22 13:16:41.545] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:16:41.546] [INFO] Sending autorun event
+[2023-08-22 13:16:43.353] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:16:43.353] [INFO] Sending autorun event
+[2023-08-22 13:17:09.805] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:17:09.805] [INFO] Sending autorun event
+[2023-08-22 13:17:17.880] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:17:17.880] [INFO] Sending autorun event
+[2023-08-22 13:17:28.447] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:17:28.447] [INFO] Sending autorun event
+[2023-08-22 13:17:38.629] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:17:38.630] [INFO] Sending autorun event
+[2023-08-22 13:17:47.183] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:17:47.183] [INFO] Sending autorun event
+[2023-08-22 13:17:55.430] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:17:55.430] [INFO] Sending autorun event
+[2023-08-22 13:18:05.220] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:18:05.220] [INFO] Sending autorun event
+[2023-08-22 13:18:06.467] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:18:06.467] [INFO] Sending autorun event
+[2023-08-22 13:19:29.661] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:19:29.661] [INFO] Sending autorun event
+[2023-08-22 13:20:27.239] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:20:27.239] [INFO] Sending autorun event
+[2023-08-22 13:20:29.512] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:20:29.513] [INFO] Sending autorun event
+[2023-08-22 13:20:30.232] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:20:30.232] [INFO] Sending autorun event
+[2023-08-22 13:20:48.612] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:20:48.612] [INFO] Sending autorun event
+[2023-08-22 13:20:50.725] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:20:50.725] [INFO] Sending autorun event
+[2023-08-22 13:20:51.172] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:20:51.172] [INFO] Sending autorun event
+[2023-08-22 13:21:10.482] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:21:10.483] [INFO] Sending autorun event
+[2023-08-22 13:21:45.870] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:21:45.870] [INFO] Sending autorun event
+[2023-08-22 13:21:48.605] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:21:48.605] [INFO] Sending autorun event
+[2023-08-22 13:21:48.728] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:21:48.728] [INFO] Sending autorun event
+[2023-08-22 13:22:00.961] [INFO] /home/maciej/ruby-teraz/dockerizing-ruby/drkiq/app/views/pages/home.html.erb was saved - checking if this effects /home/maciej/ruby-teraz/dockerizing-ruby
+[2023-08-22 13:22:00.961] [INFO] Sending autorun event
+[2023-08-25 10:36:42.905] [INFO] Test Explorer found
+[2023-08-25 10:36:42.905] [INFO] Creating adapter for /home/maciej/ruby-teraz/my_store
+[2023-08-25 10:36:42.905] [INFO] Initializing Ruby adapter
+[2023-08-25 10:36:42.905] [INFO] Registering adapter for /home/maciej/ruby-teraz/my_store
+[2023-08-25 10:36:42.906] [INFO] Loading Ruby tests...
+[2023-08-25 10:36:42.906] [INFO] Loading Minitest tests...
+[2023-08-25 10:36:42.907] [INFO] Getting a list of Minitest tests in suite with the following command: bundle exec rake -R $EXT_DIR vscode:minitest:list
+[2023-08-25 10:36:42.922] [INFO] Initialization finished
+[2023-08-25 10:36:55.871] [DEBUG] Passing raw output from dry-run into getJsonFromOutput.
+[2023-08-25 10:36:55.871] [DEBUG] START_OF_TEST_JSON{"version":"5.19.0","examples":[]}END_OF_TEST_JSON
+
+[2023-08-25 10:36:55.871] [DEBUG] Parsing the below JSON:
+[2023-08-25 10:36:55.871] [DEBUG] {"version":"5.19.0","examples":[]}
+[2023-08-25 10:37:16.353] [INFO] /home/maciej/ruby-teraz/my_store/config/application.rb was saved - checking if this effects /home/maciej/ruby-teraz/my_store
+[2023-08-25 10:37:16.354] [INFO] Sending autorun event
+[2023-08-25 10:37:17.539] [INFO] /home/maciej/ruby-teraz/my_store/config/application.rb was saved - checking if this effects /home/maciej/ruby-teraz/my_store
+[2023-08-25 10:37:17.540] [INFO] Sending autorun event
+[2023-08-25 10:37:19.338] [INFO] /home/maciej/ruby-teraz/my_store/config/application.rb was saved - checking if this effects /home/maciej/ruby-teraz/my_store
+[2023-08-25 10:37:19.338] [INFO] Sending autorun event
+[2023-08-25 10:37:27.722] [INFO] /home/maciej/ruby-teraz/my_store/config/application.rb was saved - checking if this effects /home/maciej/ruby-teraz/my_store
+[2023-08-25 10:37:27.722] [INFO] Sending autorun event
+[2023-08-25 10:37:28.337] [INFO] /home/maciej/ruby-teraz/my_store/config/application.rb was saved - checking if this effects /home/maciej/ruby-teraz/my_store
+[2023-08-25 10:37:28.337] [INFO] Sending autorun event
+[2023-08-25 10:39:31.096] [INFO] /home/maciej/ruby-teraz/my_store/Gemfile was saved - checking if this effects /home/maciej/ruby-teraz/my_store
+[2023-08-25 10:39:31.099] [INFO] Sending autorun event
+[2023-08-25 10:39:31.312] [INFO] /home/maciej/ruby-teraz/my_store/Gemfile was saved - checking if this effects /home/maciej/ruby-teraz/my_store
+[2023-08-25 10:39:31.313] [INFO] Sending autorun event
+[2023-08-25 10:44:17.240] [INFO] /home/maciej/ruby-teraz/my_store/Gemfile was saved - checking if this effects /home/maciej/ruby-teraz/my_store
+[2023-08-25 10:44:17.240] [INFO] Sending autorun event
+[2023-08-25 10:44:17.545] [INFO] /home/maciej/ruby-teraz/my_store/Gemfile was saved - checking if this effects /home/maciej/ruby-teraz/my_store
+[2023-08-25 10:44:17.545] [INFO] Sending autorun event
